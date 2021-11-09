@@ -1,3 +1,3 @@
-- 4 tomatoes 
-		- 6 carrots
-		- 1 LED bulb
+4 tomatoes 
+6 carrots
+1 LED bulbs
